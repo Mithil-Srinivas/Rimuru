@@ -1,0 +1,6 @@
+**/*.venv
+**/*.idea
+
+zonos.egg-info/
+models/*
+!models/.gitkeep
