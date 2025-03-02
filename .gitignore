@@ -4,3 +4,5 @@
 zonos.egg-info/
 models/*
 !models/.gitkeep
+embeddings/*
+!embeddings/.gitkeep
